@@ -1,0 +1,1 @@
+const candies = (children, candy) => Math.floor(candy / children) * children
